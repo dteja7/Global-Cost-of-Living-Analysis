@@ -24,4 +24,5 @@ The dashboard provides a clear, interactive view of how living expenses vary wor
 - 💰 How local purchasing power impacts overall affordability  
 - 📊 Relationships between cost of living, rent, and purchasing power
 
-[C:\Users\91891\OneDrive\Pictures\Screenshots\Screenshot 2025-04-05 023909.png](url)
+![Screenshot 2025-04-05 023909](https://github.com/user-attachments/assets/7a24b45f-c720-4d9d-81bd-441e9e03ed70)
+
